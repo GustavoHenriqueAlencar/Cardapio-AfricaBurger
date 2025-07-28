@@ -22,6 +22,9 @@ Este repositório utiliza:
 
 # 🤝 Como Contribuir
 
+## 0. Solicitar Permissão
+Antes de tudo, caso não tenha visto a mensagem no grupo, me mande seu email para poder dar commits no github
+
 ## 1. Clonando o Repositório
 
 Para começar a trabalhar no projeto, clone este repositório:
