@@ -103,8 +103,9 @@ Cada membro pode escolher uma tarefa de acordo com seu interesse e experiência.
 
 Como funciona:
 - Abra o arquivo TODO.md e veja as tarefas disponíveis.
-- Escolha uma tarefa e crie uma branch com o sufixo -develop (seguindo o padrão).
+- Escolha uma tarefa.
 - Implemente a tarefa.
+- Dê Commit na sua branch.
 - Abra um Pull Request (PR) e explique brevemente o que foi feito.
 
 
